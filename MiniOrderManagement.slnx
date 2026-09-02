@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MiniOrderManagement.API/MiniOrderManagement.API.csproj" />
+  <Project Path="MiniOrderManagement.Application/MiniOrderManagement.Application.csproj" />
+  <Project Path="MiniOrderManagement.Domain/MiniOrderManagement.Domain.csproj" />
+  <Project Path="MiniOrderManagement.Infrastructure/MiniOrderManagement.Infrastructure.csproj" />
+</Solution>
